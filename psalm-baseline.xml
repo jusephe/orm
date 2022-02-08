@@ -3057,7 +3057,7 @@
       <code>$class</code>
       <code>$collectionToDelete</code>
       <code>$collectionToUpdate</code>
-      <code>$commitOrder[$i]</code>
+      <code>$commitOrderForDeletions[$i]</code>
     </ArgumentTypeCoercion>
     <DocblockTypeContradiction occurrences="4">
       <code>! is_object($object)</code>
